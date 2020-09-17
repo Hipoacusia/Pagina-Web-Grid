@@ -1,0 +1,156 @@
+body{
+	background-image: url("../Img/Fondo.png");
+	height: 100%;
+	width: 100%;
+}
+
+header{
+	background: #632573;
+	color:#fff;;
+}
+
+h1{
+	display: inline-flex;
+	margin-top: 15px;
+}
+
+.Logo{
+	margin-bottom: 15px;
+	width: 50px;
+	height: 50px;
+	
+}
+
+nav{
+	text-shadow: #7c408B;
+}
+
+.Home{
+	color: #2b0435;
+}
+
+article{
+	display: block;
+	width: 100%;
+	height: 100%;
+	justify-content: center;
+	align-items: center;
+}
+
+.Titulo{
+	display: block;	
+	margin: auto;
+    margin-block-start: auto;
+	width: 100%;
+	height: 100%;
+	justify-content: flex-start;
+	text-align: center;
+}
+
+
+figure{
+	display: flex;
+	height: 90%;
+	width: 90%;
+	border-radius: 6px;
+	box-shadow: 0px 15px 25px;
+	cursor: pointer;
+	margin: auto;
+	margin-bottom: 5%;
+}
+
+#Imagenes{
+	display: flex;
+	width: 100%;
+	height: 100%;
+	margin: auto;
+}
+
+.main{
+	background: #f2f2f2;
+}
+
+.color1{
+	background: #34495e;
+	color:#fff;
+}
+
+aside{
+	background: #7c408B;
+}
+
+.ColorA{
+    background: #9A68A7;
+}
+
+.ColorB{
+    background: #7c408B;
+}
+
+footer{
+	display: inline;
+	background: #32023D;
+	color: #fff;
+	filter: opacity(70%);
+	
+}
+
+.Derechos{
+	display: block;
+	padding-top: 10px;
+	padding: 2%;
+}
+
+.Redes{
+	justify-content: center;
+	height: 100%;
+	width: 100%;
+}
+
+#Instagram, #Facebook, #Github, #Whatssap, #Soundcloud, #Gmail{
+	display: inline-flexbox;
+	font-size: larger;
+	padding: 2%;
+
+}
+#Instagram:hover{
+	box-shadow: 5px 3px 15px;
+}
+#Facebook:hover{
+	box-shadow: 5px 3px 15px;
+}
+
+#Github:hover{
+	box-shadow: 5px 3px 15px;
+}
+
+#Whatssap:hover{
+	box-shadow: 5px 3px 15px;
+}
+
+#Soundcloud:hover{
+	box-shadow: 5px 3px 15px;
+}
+
+#Gmail:hover{
+	box-shadow: 5px 3px 15px;
+}
+.Instagram, .Facebook, .Github, .Whatsapp, .Soundcloud, .Gmail{
+	width: 5%;
+	height: 5%;
+	filter: invert(200%);
+}
+
+.Link{
+	padding-top: 2%;
+	padding: 2%;
+	margin: auto;
+}
+
+a{
+	justify-content: center;
+	color: #fff;
+	padding: 2%;
+}
+
+
